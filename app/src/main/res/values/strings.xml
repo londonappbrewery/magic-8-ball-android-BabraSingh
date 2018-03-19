@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="button_title">Take Decision</string>
+    <string name="title">Easy Decision Days Are Back!</string>
 </resources>
